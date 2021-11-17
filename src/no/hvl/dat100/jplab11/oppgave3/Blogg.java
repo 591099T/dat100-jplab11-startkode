@@ -11,12 +11,6 @@ public class Blogg {
 	private Innlegg[] innleggtabell;
 	private int nesteledige;
 	private int lengde;
-	private int id;
-	private int dato;
-	private int antall;
-	private String tekst;
-	private String bilde;
-	private String url;
 	
 
 
